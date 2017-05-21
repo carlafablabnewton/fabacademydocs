@@ -18,5 +18,13 @@ Fortunately, i found GitBook on XXX's Fab Academy documentation, and i believe t
 
 # **Final Project**\_**NOMAD**
 
-NOMAD is an eco-friendly shelter, designed for people in movement. It can be used as temporary house for refugees, homeless people, nomads and travellers. I want to create a parametric design that can be scaled and erected in several different sizes, with flexible folders and envelopes. I also intend to make it light enough to be portable. The final design must enable some basic house structure such as water, eletricity and internet access. The project must be easy to reproduce, using CNC or lasercut machine if possible, or even handcrafted in places without Fab Labs. My design references are indian Architecture from Amazon Forest, temporary architecture, design oriented by origami theory, Marcelo Rosenbaum's eco-friendly projects. Some references below.
+NOMAD is an eco-friendly shelter, designed for people in movement. It can be used as temporary house for refugees, homeless people, nomads and travellers. I want to create a parametric design that can be scaled and erected in several different sizes, with flexible folders and envelopes. I also intend to make it light enough to be portable. The final design must enable some basic house structure such as water, eletricity and internet access. The project must be easy to reproduce, using CNC or lasercut machine if possible, or even handcrafted in places without Fab Labs. My design references are indian Architecture from Amazon Forest, temporary architecture, design oriented by origami theory, Marcelo Rosenbaum's eco-friendly projects. 
+
+Some references below:
+
+
+
+I draw my sketches using Adobe Illustrator, because it's my favorite software and it's perfect for 2d designs.
+
+
 
