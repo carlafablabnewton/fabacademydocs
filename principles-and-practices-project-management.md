@@ -1,16 +1,4 @@
-#### Have you: {#have-you}
-
-* \[x\] made a website and described how you did it
-
-* \[x\] introduced yourself
-
-* \[x\] described and made a sketch of your final project
-
-* \[x\] documented steps for uploading files to archive
-
-* \[x\] pushed to the class archive
-
-* .
+####  {#have-you}
 
 I used to build websites with no-coding platforms, like Wordpress and WebFlow. But for Fab Academy i challenged myself learning a few lessons about HTML, CSS and GitHub. It was much more difficult for me than expected.
 
@@ -18,7 +6,7 @@ Fortunately, i found GitBook on XXX's Fab Academy documentation, and i believe t
 
 # **Final Project**\_**NOMAD**
 
-NOMAD is an eco-friendly shelter, designed for people in movement. It can be used as temporary house for refugees, homeless people, nomads and travellers. I want to create a parametric design that can be scaled and erected in several different sizes, with flexible folders and envelopes. I also intend to make it light enough to be portable. The final design must enable some basic house structure such as eletricity and internet access. The project must be easy to reproduce, using CNC or lasercut machine if possible, or even handcrafted in places without Fab Labs. My design references are indian Architecture from Amazon Forest, temporary architecture, design oriented by origami theory, [Marcelo Rosenbaum's eco-friendly projects](http://rosenbaum.com.br).
+#### NOMAD is an eco-friendly shelter, designed for people in movement. It can be used as temporary house for refugees, homeless people, nomads and travellers. I want to create a parametric design that can be scaled and erected in several different sizes, with flexible folders and envelopes. I also intend to make it light enough to be portable. The final design must enable some basic house structure such as eletricity and internet access. The project must be easy to reproduce, using CNC or lasercut machine if possible, or even handcrafted in places without Fab Labs. My design references are indian Architecture from Amazon Forest, temporary architecture, design oriented by origami theory, [Marcelo Rosenbaum's eco-friendly projects](http://rosenbaum.com.br).
 
 This project is a great challenge for me, because i have graphic design and advertising backgrounds, but i never studied product design or architecture. But i think for this course i need to develop something that is new for me and can be useful for the world.
 
@@ -30,5 +18,5 @@ You can see all the references in my page on [Pinterest](https://br.pinterest.co
 
 I draw my sketches using Adobe Illustrator, because it's my favorite software and it's perfect for 2d designs.
 
-![](/assets/Captura de Tela 2017-05-21 às 21.48.07.png)
+
 
