@@ -20,3 +20,5 @@ I draw my sketches using Adobe Illustrator, because it's my favorite software an
 
 
 
+![](/assets/Captura de Tela 2017-05-21 às 21.48.07.png)
+
