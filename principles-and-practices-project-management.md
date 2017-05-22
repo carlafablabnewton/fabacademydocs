@@ -30,7 +30,5 @@ You can see all the references in my page on [Pinterest](https://br.pinterest.co
 
 I draw my sketches using Adobe Illustrator, because it's my favorite software and it's perfect for 2d designs.
 
-
-
 ![](/assets/Captura de Tela 2017-05-21 às 21.48.07.png)
 
