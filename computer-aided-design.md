@@ -8,5 +8,5 @@
 
 * Design files: [Right click + Save As](http://archive.fabacademy.org/archives/2017/fablabwgtn/students/457/uploads/tamahka.zip)
 
-
+I found this example of polyhedrons that can be a start point [here.](http://www.korthalsaltes.com/cuadros.php?type=ou) I chose this [dodecicosidodecahedron.](http://www.korthalsaltes.com/model.php?name_en=small%20dodecicosidodecahedron)
 
