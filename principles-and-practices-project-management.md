@@ -18,7 +18,5 @@ You can see all the references in my page on [Pinterest](https://br.pinterest.co
 
 I draw my sketches using Adobe Illustrator, because it's my favorite software and it's perfect for 2d designs.
 
-
-
 ![](/assets/nomad.jpg)
 
