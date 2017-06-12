@@ -38,7 +38,11 @@ Files ready to cut, the next challenge was change the vynil colors.
 
 ![](/assets/2.png)
 
+![](/assets/montar.png)
 
+![](/assets/montar2.png)
+
+![](/assets/pronto.png)
 
 * Design files: [Right click + Save As](http://archive.fabacademy.org/archives/2017/fablabwgtn/students/457/uploads/fab-beading-loom.zip)
 
