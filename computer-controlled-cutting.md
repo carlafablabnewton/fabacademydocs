@@ -8,8 +8,6 @@ I used Inkscape to design, using the Clone tool to create the parametric parts. 
 
 ![](/assets/2.jpg)
 
-
-
 I choosed mdf 3mm for prototyping. After 6 designs i got the final solution. The most difficult part for me was design the joints, and to understand how a parametric design works. Using the lasercutter machine it was the easiest part.
 
 ![](/assets/3.png)
@@ -28,17 +26,17 @@ And finally we have a shelf :\)
 
 Following my passion for geometry forms, i draw some forms for testing the vynil cutter. I choosed from straight to curve designs, from small to big forms, a sequence of circular thin lines, a bold \(and weird\) form with curves and straight parts. It's not figurative, just a lot of designs to know how the vinyl cut machine works. I also put 2 different colors. The software used was Adobe Illustrator CS6.
 
-![](/assets/telaplotter1.png) 
-
-
+![](/assets/telaplotter1.png)
 
 Files ready to print, the challenge was how to change vinyl cut colors.
 
 ![](/assets/estudos plotter.png)
 
-
-
 Files ready to cut, the next challenge was change the vynil colors.
+
+![](/assets/1.png)
+
+![](/assets/2.png)
 
 
 
